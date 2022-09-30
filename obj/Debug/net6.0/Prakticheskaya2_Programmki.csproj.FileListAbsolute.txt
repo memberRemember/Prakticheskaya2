@@ -1,0 +1,15 @@
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\bin\Debug\net6.0\Prakticheskaya2_Programmki.exe
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\bin\Debug\net6.0\Prakticheskaya2_Programmki.deps.json
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\bin\Debug\net6.0\Prakticheskaya2_Programmki.runtimeconfig.json
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\bin\Debug\net6.0\Prakticheskaya2_Programmki.dll
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\bin\Debug\net6.0\Prakticheskaya2_Programmki.pdb
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.csproj.AssemblyReference.cache
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.AssemblyInfoInputs.cache
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.AssemblyInfo.cs
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.csproj.CoreCompileInputs.cache
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.dll
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\refint\Prakticheskaya2_Programmki.dll
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.pdb
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\Prakticheskaya2_Programmki.genruntimeconfig.cache
+C:\Users\KritZ\source\repos\Prakticheskaya2_Programmki\Prakticheskaya2_Programmki\obj\Debug\net6.0\ref\Prakticheskaya2_Programmki.dll
