@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prakticheskaya2_Programmki/1.0.0": {
+        "runtime": {
+          "Prakticheskaya2_Programmki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prakticheskaya2_Programmki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
