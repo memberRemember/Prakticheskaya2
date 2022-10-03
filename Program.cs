@@ -11,6 +11,8 @@ namespace Prakticheskaya2
             bool NegrPashet = true;
             do
             {
+                Console.WriteLine("     Github Test");
+                Console.WriteLine("     Github Test");
                 Console.WriteLine("     =~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=");
                 Console.WriteLine("     Выберите какую операцию вы хотите выполнить:");
                 Console.WriteLine("     [1] Угадай число");
